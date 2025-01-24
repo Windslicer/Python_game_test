@@ -18,5 +18,7 @@ if you still want to play the CLI games then copy the following:
 ```bash
 from python_game_test import odd_or_even, stone_paper_scissors, word_guessing_game
 odd_or_even()
+```
 
+the odd_or_even() was just example try it with others.
  
