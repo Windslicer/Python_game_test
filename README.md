@@ -10,4 +10,4 @@ A collection of CLI-based games:
 Install this package via pip:
 
 ```bash
-pip install -i https://test.pypi.org/simple/ my_game_package
+
